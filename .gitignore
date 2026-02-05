@@ -1,0 +1,7 @@
+ShopAbs/main.exe
+ShopAbs/main.o
+ShopAbs/ShoeShop.o
+
+ShopOrg/main.exe
+ShopOrg/main.o
+ShopOrg/ShoeShop_C.o
