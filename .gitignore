@@ -1,7 +1,7 @@
-ShopAbs/main.exe
-ShopAbs/main.o
-ShopAbs/ShoeShop.o
+Solution/ShopAbs/main.exe
+Solution/ShopAbs/main.o
+Solution/ShopAbs/ShoeShop.o
 
-ShopOrg/main.exe
-ShopOrg/main.o
-ShopOrg/ShoeShop_C.o
+Solution/ShopOrg/main.exe
+Solution/ShopOrg/main.o
+Solution/ShopOrg/ShoeShop_C.o
