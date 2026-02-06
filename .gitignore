@@ -1,7 +1,9 @@
-Solution/ShopAbs/main.exe
-Solution/ShopAbs/main.o
-Solution/ShopAbs/ShoeShop.o
+Solution/Task 1/main.exe
+Solution/Task 1/main.o
+Solution/Task 1/ShoeShop_C.o
 
-Solution/ShopOrg/main.exe
-Solution/ShopOrg/main.o
-Solution/ShopOrg/ShoeShop_C.o
+Solution/Task 2/main.exe
+Solution/Task 2/main.o
+Solution/Task 2/ShoeShop.o
+
+
